@@ -2,7 +2,7 @@
 name: Map Suggestion
 about: Map suggestion
 title: "[Map Suggestion]"
-labels: 'Type: Map Suggestion, Awaiting Response'
+labels: 'Awaiting Response, Type: Map Suggestion'
 assignees: AhRoon
 
 ---

@@ -2,8 +2,8 @@
 name: Bug report
 about: Create a report to help us improve
 title: "[Bug Report]"
-labels: ''
-assignees: ''
+labels: 'Type: Bug/Glitch, Awaiting Response'
+assignees: AhRoon
 
 ---
 
