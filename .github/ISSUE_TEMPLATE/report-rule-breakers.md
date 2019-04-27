@@ -2,7 +2,7 @@
 name: Report rule breakers
 about: Report a naughty players.
 title: "[Report a Player]"
-labels: ''
+labels: 'Awaiting Response, Type: Player Report'
 assignees: AhRoon
 
 ---
