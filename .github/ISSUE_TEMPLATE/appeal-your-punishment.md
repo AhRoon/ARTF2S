@@ -2,7 +2,7 @@
 name: Appeal your punishment
 about: Appeal your false punishment or request an second chance
 title: "[Appeal]"
-labels: Awaiting Response
+labels: 'Awaiting Response, Type: Appeal'
 assignees: AhRoon
 
 ---
